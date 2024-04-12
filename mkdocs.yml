@@ -46,8 +46,7 @@ theme:
     - navigation.tracking
     - search.share
     - toc.follow
-  language: pt-br
-  locale: pt_BR
+  language: pt
   palette:
     - scheme: default
       toggle:
