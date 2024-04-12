@@ -90,3 +90,8 @@ markdown_extensions:
 
 # copyright: |
 #   &copy; 2023 <a href="https://github.com/FabricioDeQueiroz"  target="_blank" rel="noopener">Fabrício</a>
+
+# Page tree:
+nav:
+ - Home: 'index.md'
+ - Pagina: 'page-two.md'

@@ -1,6 +1,4 @@
-# Página Dois
-
-## Título
+# Teste
 
 Página dois, tal tal tal.
 
