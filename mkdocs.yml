@@ -19,11 +19,11 @@
 # IN THE SOFTWARE.
 
 # Project information:
-site_name: ObjeX
+site_name: Passo a Passo MkDocs
 site_url: https://github.com/FabricioDeQueiroz/mkdocs-modo-facil
 
 # Repository:
-repo_name: teste-mkdocs-modo-facil
+repo_name: mkdocs-modo-facil
 repo_url: https://github.com/FabricioDeQueiroz/mkdocs-modo-facil
 
 # Configuration:
@@ -81,16 +81,16 @@ markdown_extensions:
 # extra:
 #   social:
 #     - icon: fontawesome/brands/github-alt
-#       link: https://github.com/james-willett
+#       link: https://github.com/user
 #     - icon: fontawesome/brands/twitter
-#       link: https://twitter.com/TheJamesWillett
+#       link: https://twitter.com/user
 #     - icon: fontawesome/brands/linkedin
-#       link: https://www.linkedin.com/in/willettjames/
+#       link: https://www.linkedin.com/in/user
 
 # copyright: |
-#   &copy; 2023 <a href="https://github.com/FabricioDeQueiroz"  target="_blank" rel="noopener">Fabrício</a>
+  # &copy; 2023 <a href="https://github.com/user"  target="_blank" rel="noopener">Name</a>
 
 # Page tree:
 nav:
-  - Home: index.md
-  - Pagina: page-two.md
+  - Instalação: index.md
+  - Publicação: publishing.md
