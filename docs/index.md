@@ -166,8 +166,10 @@ jobs:
 
 ## Layout
 
-    mkdocs.yml    # Arquivo de configuração.
-    docs/
-        index.md  # Homepage da documentação.
-        ...       # Outros diretórios, arquivos markdown, assets, etc.
-
+- A disposição base dos arquivos é a seguinte:
+```
+mkdocs.yml    # Arquivo de configuração.
+docs/
+  index.md  # Homepage da documentação.
+  ...       # Outros diretórios, arquivos markdown, assets, etc.
+```
